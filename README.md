@@ -1,6 +1,7 @@
 # preprocesamiento-cienciadatos
 ---
-``` texto
+``texto
+
 preprocesamiento-cienciadatos/
 │
 ├── README.md                 # Descripción general del proyecto
@@ -17,4 +18,4 @@ preprocesamiento-cienciadatos/
 ├── outputs/                  # Resultados o reportes generados
 │  
 └── docs/                     # Imagenes
- ```  
+```  

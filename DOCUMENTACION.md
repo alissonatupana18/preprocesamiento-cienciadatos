@@ -41,12 +41,21 @@ El archivo de workflow está en `.github/workflows/ci.yml`
 ## Evidencias
 
 ### Comandos Ejecutados
-[Aquí debes insertar capturas de pantalla de los comandos git ejecutados en terminal]
+
+![alt text](<docs/Imagen de WhatsApp 2025-11-09 a las 11.40.49_e153ee52.jpg>)
+![alt text](<docs/Imagen de WhatsApp 2025-11-09 a las 11.43.19_9048e1bd.jpg>)
+![alt text](<docs/Imagen de WhatsApp 2025-11-09 a las 15.13.40_ebd8e985.jpg>)
+![alt text](<docs/Imagen de WhatsApp 2025-11-09 a las 15.14.07_e392a499.jpg>)
+
 
 ### Pull Requests y Fusión
-[Insertar capturas de los pull requests creados y sus fusiones en GitHub]
+
+![alt text](<docs/Imagen de WhatsApp 2025-11-09 a las 15.14.46_68544420.jpg>)
+![alt text](<docs/Imagen de WhatsApp 2025-11-09 a las 15.17.19_6c600062.jpg>)
+![alt text](<docs/Imagen de WhatsApp 2025-11-09 a las 15.18.51_2022c5e0.jpg>)
 
 ### GitHub Actions
+
 [Incluir capturas de las ejecuciones exitosas de los workflows]
 
 ---
