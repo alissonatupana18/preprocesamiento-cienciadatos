@@ -4,7 +4,7 @@ from sklearn.preprocessing import StandardScaler
 
 def cargar_datos(ruta_archivo):
     """
-    Carga los datos desde un archivo CSV
+    Carga los datos desde el archivo CSV
     """
     return pd.read_csv(ruta_archivo)
 
