@@ -1,3 +1,11 @@
+# Universidad Nacional de Chimborazo 
+## Nombre:Alisson Atupaña
+## Fecha: 2025-11-09
+## Carrera: Ciencia de Datos
+## Periodo académico: 2025 2S
+## Semestre: Tercero 
+
+
 # Documentación del Proyecto de Preprocesamiento de Datos
 
 ## Introducción
