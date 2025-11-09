@@ -26,15 +26,15 @@ Este proyecto tiene como objetivo implementar técnicas de preprocesamiento de d
 Se implementó un workflow de CI/CD que realiza:
 
 1. **Verificación de código**:
-   - Ejecuta tests automáticos
-   - Valida formato del código
-   - Comprueba dependencias
+    - Ejecuta tests automáticos
+    - Valida formato del código
+    - Comprueba dependencias
 
 2. **Despliegue**:
-   - Se activa en push a main
-   - Construye el proyecto
-   - Ejecuta pruebas de integración
-   - Genera documentación
+    - Se activa en push a main
+    - Construye el proyecto
+    - Ejecuta pruebas de integración
+    - Genera documentación
 
 El archivo de workflow está en `.github/workflows/ci.yml`
 
@@ -56,10 +56,8 @@ El archivo de workflow está en `.github/workflows/ci.yml`
 
 ### GitHub Actions
 
-[Incluir capturas de las ejecuciones exitosas de los workflows]
+![alt text](<docs/Imagen de WhatsApp 2025-11-09 a las 16.34.52_5d3eb9a4.jpg>)
+
 
 ---
-**Nota**: Las capturas de pantalla deben ser añadidas en la carpeta `/docs/images` y referenciadas aquí usando sintaxis markdown:
-```markdown
-![Descripción de la imagen](/docs/images/nombre-imagen.png)
-```
+**Enlace de repositorio**: [https://github.com/alissonatupana18/preprocesamiento-cienciadatos.git](https://github.com/alissonatupana18/preprocesamiento-cienciadatos.git)
