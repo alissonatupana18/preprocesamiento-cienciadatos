@@ -1,6 +1,12 @@
-# preprocesamiento-cienciadatos
+## Proyecto de Preprocesamiento de Datos 
 ---
-``texto
+# Objetivo:
+---
+El objetivo de este proyecto es aplicar técnicas fundamentales de preprocesamiento de datos para preparar conjuntos de datos que puedan ser utilizados en análisis estadísticos y modelos de aprendizaje automático.
+---
+# Estrucuta Basica 
+---
+```texto
 
 preprocesamiento-cienciadatos/
 │
